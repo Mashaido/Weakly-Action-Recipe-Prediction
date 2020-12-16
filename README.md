@@ -1,2 +1,2 @@
 # Weakly-Action-Recipe-Prediction
-learning Grammar of Complex Activities via Deep Neural Networks
+learning grammar of complex activities via deep neural networks
